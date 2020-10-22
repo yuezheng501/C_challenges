@@ -1,1 +1,1 @@
-# C_challenges
+# heckerrank_solutions_of_C_challenges
